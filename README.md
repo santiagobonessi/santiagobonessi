@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santiagobonessi
-- 👀 I’m interested in mobile and backend development, as also cloud enviroments.  
+- 👀 I’m interested in mobile and backend development, as also cloud environments.  
 - 🌱 I’m currently learning Flutter & Dart
 - 📫 How to reach me santiagobonessi@hotmail.com
 
