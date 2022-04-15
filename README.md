@@ -1,6 +1,6 @@
-- 👋  Hi, I’m @santiagobonessi
-- 👀  I’m interested in mobile and backend development, as also cloud environments.  
-- 🌱  I’m currently learning Flutter & Dart
+- 👋  Hi, I’m @santiagobonessi, I am a Software Engineer
+- 👀  I’m interested in mobile and backend development and devops.
+- 🌱  I’m currently learning Google Cloud Platform
 - 📫  How to reach me santiagobonessi@hotmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
